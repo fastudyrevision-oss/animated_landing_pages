@@ -1,0 +1,129 @@
+🎬 Why NOT just use video?
+
+You should use video when:
+
+You just want a visual background
+
+No interaction needed
+
+Fast implementation matters
+
+👉 That’s 80% of websites.
+
+🧠 Why people use frame-based animation instead
+
+Because it unlocks things video cannot do:
+
+1. 🎮 Scroll-controlled animation
+
+Animation moves based on scroll
+
+Like Apple product pages
+
+👉 Video can’t sync perfectly with scroll
+
+2. 🧩 Interactivity
+
+React to mouse movement
+
+Pause/play at specific frames
+
+Jump to states dynamically
+
+👉 Video is linear (play → pause → done)
+
+3. 🎯 Precise control
+
+Stop at exact frame
+
+Reverse animation
+
+Slow down specific sections
+
+👉 Video = limited control
+
+4. 🧠 Logic-driven visuals
+
+Example:
+
+Idea grows when user clicks
+
+Network expands based on input
+
+👉 You can’t “program” a video like that
+
+🔥 Where this technique is ACTUALLY used
+✅ 1. Premium product sites
+
+Apple AirPods / iPhone pages
+
+Scroll → product rotates / evolves
+
+✅ 2. Storytelling landing pages
+
+Startup explaining concept visually
+
+Step-by-step animation
+
+✅ 3. Data / concept visualization
+
+Networks (like your Trade an Idea 👀)
+
+Systems evolving over time
+
+✅ 4. Interactive portfolios
+
+Designer/dev showing creativity
+
+Not just static visuals
+
+⚖️ Honest Pros & Cons
+✅ Pros (Frame-based)
+
+Full control over animation
+
+Scroll + interaction support
+
+Unique, high-end feel
+
+Can integrate with logic
+
+❌ Cons (Frame-based)
+
+Heavy (many images)
+
+Complex to build
+
+Can lag on mobile
+
+Harder to optimize
+
+✅ Pros (Video)
+
+Super easy
+
+Lightweight (if compressed well)
+
+Works everywhere
+
+Fast to deploy
+
+❌ Cons (Video)
+
+No interactivity
+
+No scroll sync
+
+Limited control
+
+Feels generic
+
+🧠 Real takeaway
+
+👉 Use video for:
+
+Clean, simple, fast landing pages
+
+👉 Use frame animation for:
+
+Interactive, storytelling, premium experiences
