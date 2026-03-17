@@ -1,0 +1,26 @@
+{
+  "name": "trade-an-idea",
+  "version": "1.0.0",
+  "description": "Modern cinematic landing page with frame-based canvas animation",
+  "main": "script.js",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server -p 8000"
+  },
+  "keywords": [
+    "landing-page",
+    "canvas",
+    "animation",
+    "responsive",
+    "modern"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/trade-an-idea.git"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}

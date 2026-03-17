@@ -1,0 +1,16 @@
+[build]
+  command = "echo 'Static site - no build needed'"
+  publish = "."
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[context.production.environment]
+  CACHE_ON_DEMAND = true
+
+[headers]
+  [[headers.values]]
+    key = "Cache-Control"
+    value = "public, max-age=3600"
